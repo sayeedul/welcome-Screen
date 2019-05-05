@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SmartMed</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome To SmartMed!</string>
+    <string name="slide_1_desc">The easiest and smart way to get Medicine at your door Step!</string>
+
+    <string name="slide_2_title">Smart Medicine Buy!</string>
+    <string name="slide_2_desc">Buy best authenticated medicines in a smart way with ease at your finger tips!</string>
+
+    <string name="slide_3_title">Best Medicine Info.!</string>
+    <string name="slide_3_desc">Know any thing about any medicine that are prescribed by the doctors with great ease!</string>
+
+    <string name="slide_4_title">Great Savings!</string>
+    <string name="slide_4_desc">Buy any medicine directly from the Pharmaceuticals manufactures verified and delievered at your door step!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
